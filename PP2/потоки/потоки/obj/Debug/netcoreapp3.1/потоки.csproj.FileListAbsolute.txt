@@ -1,0 +1,13 @@
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.csprojAssemblyReference.cache
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.AssemblyInfoInputs.cache
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.AssemblyInfo.cs
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.exe
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.deps.json
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.runtimeconfig.json
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.runtimeconfig.dev.json
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.dll
+C:\Users\Назар\source\repos\потоки\потоки\bin\Debug\netcoreapp3.1\потоки.pdb
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.dll
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.pdb
+C:\Users\Назар\source\repos\потоки\потоки\obj\Debug\netcoreapp3.1\потоки.genruntimeconfig.cache
