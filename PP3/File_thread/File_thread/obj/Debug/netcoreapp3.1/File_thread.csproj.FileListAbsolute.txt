@@ -1,0 +1,13 @@
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.exe
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.deps.json
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.runtimeconfig.json
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.runtimeconfig.dev.json
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.dll
+C:\Users\Назар\source\repos\File_thread\File_thread\bin\Debug\netcoreapp3.1\File_thread.pdb
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.csprojAssemblyReference.cache
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.AssemblyInfoInputs.cache
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.AssemblyInfo.cs
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.dll
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.pdb
+C:\Users\Назар\source\repos\File_thread\File_thread\obj\Debug\netcoreapp3.1\File_thread.genruntimeconfig.cache

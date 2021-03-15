@@ -1,0 +1,9 @@
+проходимо певний шлях
+PP3\File_thread\File_thread\bin\Debug\netcoreapp3.1
+тут знаходимо файл .exe
+Запускаємо
+
+
+!!!ДЛЯ LINUX!!!
+Запускаєм .exe файл через wine
+wine шлях до файлу\назва.exe
