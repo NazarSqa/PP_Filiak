@@ -1,0 +1,10 @@
+C:\Users\Назар\source\repos\процес\процес\bin\Debug\процес.exe.config
+C:\Users\Назар\source\repos\процес\процес\bin\Debug\процес.exe
+C:\Users\Назар\source\repos\процес\процес\bin\Debug\процес.pdb
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.csprojAssemblyReference.cache
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.Form1.resources
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.Properties.Resources.resources
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.csproj.GenerateResource.cache
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.exe
+C:\Users\Назар\source\repos\процес\процес\obj\Debug\процес.pdb
