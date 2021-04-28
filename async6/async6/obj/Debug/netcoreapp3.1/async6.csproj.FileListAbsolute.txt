@@ -1,0 +1,13 @@
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.exe
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.deps.json
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.runtimeconfig.json
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.runtimeconfig.dev.json
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.dll
+C:\Users\Назар\source\repos\async6\async6\bin\Debug\netcoreapp3.1\async6.pdb
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.csprojAssemblyReference.cache
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.AssemblyInfoInputs.cache
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.AssemblyInfo.cs
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.dll
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.pdb
+C:\Users\Назар\source\repos\async6\async6\obj\Debug\netcoreapp3.1\async6.genruntimeconfig.cache
